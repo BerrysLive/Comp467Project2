@@ -1,0 +1,10 @@
+﻿Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,3/5/2024,Tutorial,Bug: The blue square highlight is on the wrong character in tutorial,The Highlight hovering the Lumberjack,The Highlight hovered Fire Starter,no,no,Armen Levonyan
+2,3/5/2024,Arena,Bug: When trying to hire a character it showed hire for both cards I highlighted and only lets me hire the first one I hovered over,Lets me hire the last card I highlighteed,only lets me hire the first one even tho both hire buttons are there,no,no,Armen Levonyan
+3,3/5/2024,Arena,"Bug: Ai Player Did not do anything during the first phase, waited for the timer to run nout",The AI Player makes some decision and ends the turn,"The AI did nothing and the timer forcefully ended it turn, once it reached the ",yes,no,Armen Levonyan

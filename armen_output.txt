@@ -1,0 +1,198 @@
+_id: 117
+﻿Test #: 1
+Build #: 3/19/24
+Category: Arena Game
+Test Case: Trying to attack with a duplicate card
+Expected Result: Being able to attack with both individual cards
+Actual Result: Once 1 was used for an attack cant use the other
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 118
+﻿Test #: 2
+Build #: 3/19/24
+Category: Arena Game
+Test Case: Accidentally clicking to a different link while in the middle of a game
+Expected Result: Be able to return to the Arena game I was in
+Actual Result: Back to the main menu
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 119
+﻿Test #: 3
+Build #: 3/19/24
+Category: Adventure Game
+Test Case: Going to adventure to play 1-1 for The Kingdom
+Expected Result: Start the game, use 3 Energy
+Actual Result: Button gives visual indicator that its being clicked but nothing changes
+Repeatable?: yes
+Blocker?: yes
+Test Owner: Armen Levonyan
+
+_id: 827
+﻿Test #: 1
+Build #: 2/24/24
+Category: Login
+Test Case: Loging in using google email after making account a few days prior
+Expected Result: Login as normal
+Actual Result: Authenticator said im in, but when I go back to the other tab I havn't been logged in
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonan
+
+_id: 828
+﻿Test #: 2
+Build #: 2/25/24
+Category: Tutorial
+Test Case: Launch  tutorial
+Expected Result: Tutorial begins
+Actual Result: Black Screen where the play area should be, your hand of cards is visible
+Repeatable?: no
+Blocker?: no
+Test Owner: Armen Levonan
+
+_id: 829
+﻿Test #: 3
+Build #: 2/25/24
+Category: Tutorial
+Test Case: Visual Indicator for selecting cards and actions
+Expected Result: Blue box highlights area expected to be clicked on
+Actual Result: Sometimes it offshoots the positioning for the blue square highlight
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonan
+
+_id: 2
+﻿Test #: 1
+Build #: 3/19/2024
+Category: Arena Game
+Test Case: Trying to attack with a duplicate card
+Expected Result: Being able to attack with both individual cards
+Actual Result: Once 1 was used for an attack cant use the other
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 3
+﻿Test #: 2
+Build #: 3/19/2024
+Category: Arena Game
+Test Case: Accidentally clicking to a different link while in the middle of a game
+Expected Result: Be able to return to the Arena game I was in
+Actual Result: Back to the main menu
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 4
+﻿Test #: 3
+Build #: 3/19/2024
+Category: Adventure Game
+Test Case: Going to adventure to play 1-1 for The Kingdom
+Expected Result: Start the game, use 3 Energy
+Actual Result: Button gives visual indicator that its being clicked but nothing changes
+Repeatable?: yes
+Blocker?: yes
+Test Owner: Armen Levonyan
+
+_id: 5
+﻿Test #: 1
+Build #: 2/24/2024
+Category: Login
+Test Case: Loging in using google email after making account a few days prior
+Expected Result: Login as normal
+Actual Result: Authenticator said im in, but when I go back to the other tab I havn't been logged in
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonan
+
+_id: 6
+﻿Test #: 2
+Build #: 2/25/2024
+Category: Tutorial
+Test Case: Launch  tutorial
+Expected Result: Tutorial begins
+Actual Result: Black Screen where the play area should be, your hand of cards is visible
+Repeatable?: no
+Blocker?: no
+Test Owner: Armen Levonan
+
+_id: 7
+﻿Test #: 3
+Build #: 2/25/2024
+Category: Tutorial
+Test Case: Visual Indicator for selecting cards and actions
+Expected Result: Blue box highlights area expected to be clicked on
+Actual Result: Sometimes it offshoots the positioning for the blue square highlight
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonan
+
+_id: 8
+﻿Test #: 1
+Build #: 3/5/2024
+Category: Tutorial
+Test Case: Bug: The blue square highlight is on the wrong character in tutorial
+Expected Result: The Highlight hovering the Lumberjack
+Actual Result: The Highlight hovered Fire Starter
+Repeatable?: no
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 9
+﻿Test #: 2
+Build #: 3/5/2024
+Category: Arena
+Test Case: Bug: When trying to hire a character it showed hire for both cards I highlighted and only lets me hire the first one I hovered over
+Expected Result: Lets me hire the last card I highlighteed
+Actual Result: only lets me hire the first one even tho both hire buttons are there
+Repeatable?: no
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 10
+﻿Test #: 3
+Build #: 3/5/2024
+Category: Arena
+Test Case: Bug: Ai Player Did not do anything during the first phase, waited for the timer to run nout
+Expected Result: The AI Player makes some decision and ends the turn
+Actual Result: The AI did nothing and the timer forcefully ended it turn, once it reached the 
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 11
+﻿Test #: 1
+Build #: 3/12/2024
+Category: Login
+Test Case: Authention says im authenticated but never goes through
+Expected Result: I log in
+Actual Result: I am stuck on perma authentication
+Repeatable?: yes
+Blocker?: yes
+Test Owner: Armen Levonyan
+
+_id: 12
+﻿Test #: 2
+Build #: 3/13/2024
+Category: Main page
+Test Case: Queueing for arena match
+Expected Result: I Find a player,  or get queued with an AI after a certain period of time
+Actual Result: I am in a perma queue
+Repeatable?: yes
+Blocker?: yes
+Test Owner: Armen Levonyan
+
+_id: 13
+﻿Test #: 3
+Build #: 3/14/2024
+Category: Game
+Test Case: Playing Adventure mode
+Expected Result: Hit the play button and start the game
+Actual Result: Clicking the Play button  does nothing other than the animation of clicking
+Repeatable?: yes
+Blocker?: yes
+Test Owner: Armen Levonyan
+

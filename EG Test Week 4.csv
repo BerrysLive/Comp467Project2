@@ -1,0 +1,10 @@
+﻿Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,2/24/2024,Login,Loging in using google email after making account a few days prior,Login as normal,"Authenticator said im in, but when I go back to the other tab I havn't been logged in",yes,no,Armen Levonan
+2,2/25/2024,Tutorial,Launch  tutorial,Tutorial begins,"Black Screen where the play area should be, your hand of cards is visible",no,no,Armen Levonan
+3,2/25/2024,Tutorial,Visual Indicator for selecting cards and actions,Blue box highlights area expected to be clicked on,Sometimes it offshoots the positioning for the blue square highlight,yes,no,Armen Levonan

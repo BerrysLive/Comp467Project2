@@ -1,0 +1,10 @@
+﻿Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,3/19/2024,Arena Game,Trying to attack with a duplicate card,Being able to attack with both individual cards,Once 1 was used for an attack cant use the other,yes,no,Armen Levonyan
+2,3/19/2024,Arena Game,Accidentally clicking to a different link while in the middle of a game,Be able to return to the Arena game I was in,Back to the main menu,yes,no,Armen Levonyan
+3,3/19/2024,Adventure Game,Going to adventure to play 1-1 for The Kingdom,"Start the game, use 3 Energy",Button gives visual indicator that its being clicked but nothing changes,yes,yes,Armen Levonyan
