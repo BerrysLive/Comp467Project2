@@ -1,3 +1,36 @@
+_id: 14
+﻿Test #: 1
+Build #: 3/19/2024
+Category: Arena Game
+Test Case: Trying to attack with a duplicate card
+Expected Result: Being able to attack with both individual cards
+Actual Result: Once 1 was used for an attack cant use the other
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 15
+﻿Test #: 2
+Build #: 3/19/2024
+Category: Arena Game
+Test Case: Accidentally clicking to a different link while in the middle of a game
+Expected Result: Be able to return to the Arena game I was in
+Actual Result: Back to the main menu
+Repeatable?: yes
+Blocker?: no
+Test Owner: Armen Levonyan
+
+_id: 16
+﻿Test #: 3
+Build #: 3/19/2024
+Category: Adventure Game
+Test Case: Going to adventure to play 1-1 for The Kingdom
+Expected Result: Start the game, use 3 Energy
+Actual Result: Button gives visual indicator that its being clicked but nothing changes
+Repeatable?: yes
+Blocker?: yes
+Test Owner: Armen Levonyan
+
 _id: 37
 ﻿Test #: 0
 Build #: 3/19/2024
@@ -426,37 +459,4 @@ Actual Result: Cards show zero owned
 Repeatable?: Yes
 Blocker?: No
 Test Owner: Narek Karapetyan
-
-_id: 2
-﻿Test #: 1
-Build #: 3/19/2024
-Category: Arena Game
-Test Case: Trying to attack with a duplicate card
-Expected Result: Being able to attack with both individual cards
-Actual Result: Once 1 was used for an attack cant use the other
-Repeatable?: yes
-Blocker?: no
-Test Owner: Armen Levonyan
-
-_id: 3
-﻿Test #: 2
-Build #: 3/19/2024
-Category: Arena Game
-Test Case: Accidentally clicking to a different link while in the middle of a game
-Expected Result: Be able to return to the Arena game I was in
-Actual Result: Back to the main menu
-Repeatable?: yes
-Blocker?: no
-Test Owner: Armen Levonyan
-
-_id: 4
-﻿Test #: 3
-Build #: 3/19/2024
-Category: Adventure Game
-Test Case: Going to adventure to play 1-1 for The Kingdom
-Expected Result: Start the game, use 3 Energy
-Actual Result: Button gives visual indicator that its being clicked but nothing changes
-Repeatable?: yes
-Blocker?: yes
-Test Owner: Armen Levonyan
 
